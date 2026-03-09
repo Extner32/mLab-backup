@@ -1,0 +1,132 @@
+fatal, fatale@fataal, dodelijk@0111
+hybride@hybride@0111
+ivre@dronken@0000101
+piéton, piétonne@voetgangers-@0010111
+provisoire@tijdelijk, voorlopig@000001000000001
+routier, routière@weg-@001011
+saoul, soûl@zat, dronken@000000000001
+un billet aller-retour@een heen-en-terug-ticket@0000001
+un arrêt@een halte@1
+une assurance@een verzekering@1
+une bande de circulation@een rijvak@010001
+une blessure@een verwonding@1
+un bouchon@een opstopping@0010000000001
+un capot@een motorkap@000100001
+un carburant@een brandstof@01001
+une chaussée@een steenweg@00000000000000001
+un choc@een schok@11
+la circulation dense@het druk verkeer@000100001
+un clignotant, un clignoteur@een richtingaanwijzer@0001001
+une collision@een botsing@0101
+les conditions de circulation@de wegomstandigheden@00100001
+un covoiturage@het carpoolen@00001000001
+les dégâts@de schade@0001000001
+des dégâts matériels@materiële schade@00001000001
+une direction@een richting@0111
+les dommages@de schade@00000010001
+un embouteillage@een file@00000010001
+une essence@een benzine@11
+un essuie-glace@een ruitenwisser@000000000001
+un excès de vitesse@een overdreven snelheid@000000000001
+les feux de signalisation@de verkeerslichten@00001011001
+un gilet de sécurité@een veiligheidshesje@0000000001
+une infraction@een overtreding@0000001001
+un juge@een rechter@1
+une ligne continue@een volle lijn@0010011
+une limitation de vitesse@een snelheidsbeperking@11
+un motard@een motorijder@0101
+un motocycliste@een motorijder@0000100001
+un panneau de signalisation@een verkeersbord@000000001
+un pare-brise@een voorruit@0001001
+un pare-chocs@een bumper@0010001
+un passage (pour) piéton(s)@een zebrapad@00000000001
+un passager, une passagère@een passagier (m, v)@000100001
+un périphérique@een ring@000010000001
+un permis@een rijbewijs@11
+un phare@een groot licht@000100101
+une piste cyclable@een fietspad@0000010000001
+une place de stationnement@een parkeerplaats@0000010000000001
+une poignée@een handvat@0001000001
+une portière@een portier@0111
+un ralentissement@een vertraging van het verkeer@0001000001
+une remorque@een aanhangwagen@00001101
+un retard@een vertraging@00000000001
+un rétroviseur@een achteruitkijkspiegel@00100001
+un ring@een ring@00101
+un rond-point@een rotonde@01001
+une route départementale@een departementsweg@010000001
+un routier@een vrachtwagenchauffeur@0010001
+une rue à sens interdit@een straat met verboden richting@0000001001
+une rue à sens unique@een eenrichtingsstraat@000000011
+une rue piétonne@een voetgangersstraat@0000010001
+un sentier@een pad@00001000000001
+un siège@een zetel@0000000001
+un square@een pleintje@0010011
+un tableau de bord@een dashboard@0000010111
+un taux d'alcool@een alcoholgehalte@0111
+un tournant@een bocht@00001001
+le trafic@het verkeer@00010001
+un trajet@een traject@1
+un triangle de signalisation@een gevarendriehoek@01001001
+un tribunal@een rechtbank@010001
+une trousse de (premiers) secours@een EHBO-kistje@0000000000001
+un véhicule@een voertuig@1
+le verglas@de ijzel@00000011
+un viaduc@een viaduct@01011
+une victime@een slachtoffer@001101
+un virage@een bocht@0001000001
+une visibilité@een zichtbaarheid@001011
+une vitre (latérale)@een ruit@0010011
+un volant@een stuur@001011
+une zone piétonne@een voetgangerszone@000011
+approcher@naderen@00100001
+avancer@vooruit rijden@001011
+circuler@(door)rijden@000000010001
+décéder@overlijden@00100001
+démarrer@starten, opstarten@00010000001
+dépasser@inhalen@000100001
+doubler@inhalen@00100000001
+éviter@ontwijken, vermijden@010001
+freiner@remmen@0101
+(se) garer@(zich) parkeren@000001001
+glisser@glijden@11
+heurter (se)@stoten, met elkaar in botsing komen@1
+immobiliser@stoppen@0000000000000001
+longer@langsrijden@0001000001
+percuter (une voiture)@botsen (tegen een auto)@0000100000001
+ralentir@vertragen@11
+reculer@achteruitgaan@010001
+renverser (un piéton)@(een voetganger) omverrijden@0000101001
+risquer (de)@riskeren@01001
+s'intercaler@ritsen@000010001
+stationner@stilstaan, parkeren@1
+virer@draaien@01101
+attacher sa ceinture de sécurité@zijn gordel vastklikken@00001001
+avoir la priorité@voorrang hebben@0000000001
+brûler un feu (rouge)@door het rood licht rijden@01001
+céder la priorité@voorrang verlenen@00010001
+céder le passage@de doorgang verlenen@00100001
+changer de file@van rijbaan veranderen@000000000001
+dans les deux sens@in de twee richtingen@0000011001
+donner la priorité@voorrang geven@00000100001
+effectuer des tonneaux@overkop gaan@01001
+emprunter le bus@de bus nemen@00010101
+entrer en collision@botsen@0000010001
+être à l'arrêt@stilstaan@00000000000000001
+être dans un état grave, être dans un état critique@in kritieke toestand zijn@000000000000001
+être en état de choc@in schok zijn@0011001
+être en stationnement@geparkeerd zijn@0000000000001
+être tué sur le coup@op slag dood zijn@000000001
+faire demi-tour@omkeren@0000000001
+faire des tonneaux@overkop gaan@01101
+faire le plein@voltanken@001000001
+obtenir son permis (de conduire)@een rijbewijs behalen@001001
+passer son permis (de conduire)@een rijexamen doen@000000100000001
+poursuivre sa route@zijn weg vervolgen@00010000000001
+quitter un stationnement@een parkeerplaats verlaten@0000001000000001
+rater son permis (de conduire)@niet slagen voor een rijbewijs@001001
+respecter la limitation de vitesse@de snelheidsbeperking respecteren@000001101
+succomber à ses blessures@aan zijn verwondingen bezwijken@01110001
+tomber en panne@in panne vallen@1
+venir en sens inverse@uit tegengestelde richting komen@00010001
+virer à gauche, à droite@naar links, naar rechts draaien@0101001
