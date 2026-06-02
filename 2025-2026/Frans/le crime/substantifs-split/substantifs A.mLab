@@ -1,40 +1,40 @@
-une accusation@een beschuldiging@1
-un accusé, une accusée@een beschuldigde@000000001
-un agresseur@een aanvaller, belager@01
-une agression@een aanval@00001
-une aide@een hulp@01
-un alibi@een alibi@1
-une arme (du crime)@een (moord)wapen@0000001
-une arrestation@een arrestatie@1
-un assassin@een moordenaar@01
-un assassinat@moord met voorbedachte rade@1
-une attaque@een aanval@1
-une attaque à main armée@een gewapende overval@0001
-un attentat@een aanslag@0000001
-une autopsie@een autopsie@1
-un aveu@een bekentenis@000001
-un avocat@een advocaat@1
-une bagarre@een vechtpartij@00000001
-une balle@een kogel@1
-un bandit@een bandiet@01
-un barreau@een stang, tralie@0001
-un braquage@een overval@01
-un butin@een buit@001
-un cadavre@een lijk@01
-un cambriolage@een inbraak@01
-un cambrioleur@een inbreker@1
-un chantage@een chantage@01
-un coffre-fort@een kluis@00001
-un commissaire@een commissaris@0001
-un complice@een medeplichtige@0001
-la complicité@de medeplichtigheid@0000001
-une condamnation@een veroordeling@01
-un condamné (à mort), une condamné (à mort)@een (ter dood) veroordeelde@000001
-un condamné, une condamnée@een veroordeelde@001
-une corruption@een corruptie@01
-un coup@een slag, een steek@01
-un coup de feu@een schot@001
-un coupable@een schuldige@01
-un crime@een misdaad@0001
-la criminalité@de criminaliteit@01
-un criminel@een crimineel@1
+une accusation@een beschuldiging@11011
+un accusé, une accusée@een beschuldigde@00000000100101
+un agresseur@een aanvaller, belager@0100010001
+une agression@een aanval@00001001000001
+une aide@een hulp@0100101
+un alibi@een alibi@111
+une arme (du crime)@een (moord)wapen@00000010101
+une arrestation@een arrestatie@111
+un assassin@een moordenaar@01011
+un assassinat@moord met voorbedachte rade@10011
+une attaque@een aanval@10001001
+une attaque à main armée@een gewapende overval@000100101
+un attentat@een aanslag@000000100101
+une autopsie@een autopsie@1101
+un aveu@een bekentenis@00000101001
+un avocat@een advocaat@111
+une bagarre@een vechtpartij@00000001000100001
+une balle@een kogel@111
+un bandit@een bandiet@0111
+un barreau@een stang, tralie@0001001001
+un braquage@een overval@010101
+un butin@een buit@0010001
+un cadavre@een lijk@01001
+un cambriolage@een inbraak@010001
+un cambrioleur@een inbreker@111
+un chantage@een chantage@0101001
+un coffre-fort@een kluis@000010001
+un commissaire@een commissaris@00010000001
+un complice@een medeplichtige@000100001
+la complicité@de medeplichtigheid@00000010101
+une condamnation@een veroordeling@0101
+un condamné (à mort), une condamnée (à mort)@een (ter dood) veroordeelde@000001001
+un condamné, une condamnée@een veroordeelde@001001
+une corruption@een corruptie@0111
+un coup@een slag, een steek@0101
+un coup de feu@een schot@00101
+un coupable@een schuldige@0111
+un crime@een misdaad@00010101
+la criminalité@de criminaliteit@0111
+un criminel@een crimineel@111
