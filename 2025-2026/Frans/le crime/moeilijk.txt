@@ -1,0 +1,61 @@
+aanranden: agresser
+neersteken: poignarder
+een aanslag: un attentat
+een gewapende overval: un vol à main armée
+een overval: un hold-up
+een vechtpartij: une bagarre
+een overlevende: un rescapé
+een afrekening (iemand afrekenen): un règlement de compte
+een vluchtmisdrijf: un délit (de fuite)
+zakkenrollen: le vol à la tire
+een schietgevecht: une fusillade
+
+ontvoeren: enlever, kidnapper
+een ontvoerder: un ravisseur
+
+bedriegen: tromper
+een bedrieger: un imposteur
+oplichten: escroquer
+een oplichter: un escroc
+het bedrog: la superchérie, une imposture
+de afpersing: le racket
+het verbergen, achterhouden: la dissimulation
+
+opzettelijk: volontaire
+een leugen: un mensonge
+een gegijzelde: un otage
+een buit: un butin
+een losgeld: un rançon
+
+
+
+verdenken: soupçonner
+een spoor: une piste
+een aanwijzing: une indice
+
+beschuldigen (van): accuser (de)
+in beschuldiging gesteld: inculpé, inculpée
+aangeven/verraden: dénoncer, trahir
+aanspreken/aanhouden: interpeller
+een aanhoudingsbevel: un mandat d'arret
+de medeplichtigheid: la complicité
+een medeplichtige: un complice
+
+bekennen: avouer
+een bekentenis: un aveu
+een motief: un mobile
+zich overgeven: se rendre
+oplossen: élucider
+
+een vonnis, een oordeel: un jugement, un verdict
+veroordelen: condamner
+een terechtstelling: une exécution
+de voorlopige hechtenis: la garde à vue
+
+
+
+opsluiten: incarcérer, enfermer
+ontsnappen (uit gevang): s'évader
+ontsnappen: s'enfuir
+vrijspreken: acquitter
+een (dood)straf: une peine (de mort)
